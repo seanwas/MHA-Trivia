@@ -3,3 +3,11 @@ body {
     background: blue;
 
 }
+
+div{
+    border: 2px solid red;
+}
+div:hover{
+    background: yellow;
+    color: black;
+}
